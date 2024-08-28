@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Diab</h1>
 <h3 align="center">I am a passionate Web Developer with two years of experience, utilizing the latest technologies to create innovative solutions. Explore my skills below.</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue" alt="React" />
-  <img src="https://img.shields.io/badge/Backend-Next.js-brightgreen" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Version%20Control-Git%20&%20GitHub-orange" alt="Git & GitHub" />
-</p>
-
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -71,9 +65,9 @@
 
 <h3 align="left">🌐 Languages:</h3>
 <ul>
-  <li>Arabic (Native)</li>
-  <li>English (Proficient)</li>
-  <li>Turkish (Limited Working Proficiency)</li>
+  <li>Arabic  - Native</li>
+  <li>English - Proficient </li>
+  <li>Turkish - Limited Working Proficiency</li>
 </ul>
 
 <h3 align="left">💼 Experience:</h3>
@@ -88,7 +82,7 @@
   <a href="https://www.linkedin.com/in/omar-diab-756b0b306/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/omardiab.10" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/omardiab.10" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
