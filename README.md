@@ -62,9 +62,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.hostinger.com/logo.svg" alt="hostinger" width="40" height="40"/>
-  </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
   </a>
