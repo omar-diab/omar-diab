@@ -77,7 +77,6 @@
   <li>Arabic  - Native</li>
   <li>English - Proficient </li>
   <li>Turkish - Limited Working Proficiency</li>
-  <li>Firebase - Familiar</li>
 </ul>
 
 <h3 align="left">💼 Experience:</h3>
