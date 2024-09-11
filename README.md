@@ -56,11 +56,8 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.pgadmin.org/static/img/logo_big.png" alt="pgadmin4" width="40" height="40"/>
-  </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="prisma" width="40" height="40"/>
+    <img src="https://www.prisma.io/images/logo.svg" alt="prisma" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
