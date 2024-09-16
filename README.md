@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋,</h1>
 <h3 align="center">I am a passionate Web Developer with two years of experience, utilizing the latest technologies to create innovative solutions. Explore my skills below.</h3>
 
 ---
@@ -67,9 +67,6 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg" alt="hostinger" width="40" height="40"/>
   </a>
 </p>
 
