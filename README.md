@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋,</h1>
+<h1 align="center">Hi 👋, I'm Omar Diab</h1>
 <h3 align="center">I am a passionate Web Developer with two years of experience, utilizing the latest technologies to create innovative solutions. Explore my skills below.</h3>
 
 ---
