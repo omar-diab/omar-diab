@@ -83,6 +83,7 @@
   <li>Arabic  - Native</li>
   <li>English - Proficient </li>
   <li>Turkish - Limited Working Proficiency</li>
+  <li>Spanish - Level A1</li>
 </ul>
 
 <h3 align="left">💼 Experience:</h3>
