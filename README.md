@@ -76,7 +76,7 @@
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="gsap" width="40" height="40"/>
   </a>
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/framer-icon.png" alt="framer motion" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/framer-motion.svg" alt="framer motion" width="40" height="40"/>
   </a>
 </p>
 
