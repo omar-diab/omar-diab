@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Tools I use:</h3>
 <p align="left">
   <!-- Existing tools -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -76,7 +76,7 @@
 
 ---
 
-<h3 align="left">🌐 Languages:</h3>
+<h3 align="left">🌐 Languages I speak:</h3>
 <ul>
   <li>Arabic  - Native</li>
   <li>English - Proficient </li>
@@ -84,14 +84,14 @@
   <li>Spanish - Level A1</li>
 </ul>
 
-<h3 align="left">💼 Experience:</h3>
+<h3 align="left">💼 My Experience:</h3>
 <ul>
   <li>Internship with e+plus as a Front-End Developer for 3 months</li>
 </ul>
 
 ---
 
-<h3 align="left">Find Me on:</h3>
+<h3 align="left">Find me on:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/omar-diab-756b0b306/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
