@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="left">🛠️ Tools I use:</h3>
+<h3 align="left">🛠️ Tools I Use:</h3>
 <p align="left">
   <!-- Existing tools -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -76,7 +76,7 @@
 
 ---
 
-<h3 align="left">🌐 Languages I speak:</h3>
+<h3 align="left">🌐 Languages I Speak:</h3>
 <ul>
   <li>Arabic  - Native</li>
   <li>English - Proficient </li>
@@ -91,7 +91,7 @@
 
 ---
 
-<h3 align="left">🌐 Find me on:</h3>
+<h3 align="left">🌐 Find Me On:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/omar-diab-756b0b306/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
