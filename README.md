@@ -84,7 +84,7 @@
   <li>Spanish - Level A1</li>
 </ul>
 
-<h3 align="left">💼 My Experience:</h3>
+<h3 align="left">💼 My Experiences:</h3>
 <ul>
   <li>Internship with e+plus as a Front-End Developer for 3 months</li>
 </ul>
