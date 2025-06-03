@@ -78,7 +78,7 @@
 
 <h3 align="left">🌐 Languages I Speak:</h3>
 <ul>
-  <li>Arabic  - Native</li>
+  <li>Arabic - Native</li>
   <li>English - Proficient </li>
   <li>Turkish - Limited Working Proficiency</li>
   <li>Spanish - Level A1</li>
