@@ -4,7 +4,7 @@
 ---
 
 ### 🧰 Tech Stack & Tools
-<p align="center">
+<p align="start">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python" alt="Languages" /><br>
   
