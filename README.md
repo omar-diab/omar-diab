@@ -1,9 +1,9 @@
-<h1 align="start">Hi there 👋, I'm <span style="color:#00ADB5;">Omar Diab</span></h1>
-<h3 align="start">🚀 A Passionate Front-End Developer crafting sleek and modern web experiences using the latest technologies!</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Omar Diab</span></h1>
+<h3 align="start">A Passionate Front-End Developer crafting sleek and modern web experiences using the latest technologies! 🚀</h3>
 
 ---
 
-### 🧰 Tech Stack & Tools:
+### Tech Stack & Tools 🧰 :
 <p align="start">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python" alt="Languages" /><br>
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌐 Languages I Speak:
+### Languages I Speak 🌐 :
 - **Arabic** - Native  
 - **English** - Proficient  
 - **Turkish** - Limited Working Proficiency  
@@ -25,11 +25,11 @@
 
 ---
 
-### 💼 Experience:
+### Experience 💼 :
 - 🧑‍💻 **Front-End Developer Intern at **e+plus** for 3 months
 ---
 
-### 📫 Connect With Me:
+### Connect With Me 📫 :
 <p align="start">
   <a href="https://www.linkedin.com/in/omar-diab-756b0b306/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
