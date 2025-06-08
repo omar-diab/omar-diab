@@ -3,7 +3,7 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Tools:
 <p align="start">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python" alt="Languages" /><br>
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌐 Languages I Speak
+### 🌐 Languages I Speak:
 - **Arabic** - Native  
 - **English** - Proficient  
 - **Turkish** - Limited Working Proficiency  
@@ -25,20 +25,18 @@
 
 ---
 
-### 💼 Experience
-- 🧑‍💻 **Front-End Developer Intern** at **e+plus** for 3 months  
-  → Built responsive web interfaces, collaborated in a dev team, and worked with real clients.
-
+### 💼 Experience:
+- 🧑‍💻 **Front-End Developer Intern at **e+plus** for 3 months
 ---
 
-### 📫 Connect With Me
-<p align="center">
+### 📫 Connect With Me:
+<p align="start">
   <a href="https://www.linkedin.com/in/omar-diab-756b0b306/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/omardiab.10" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
   </a>
 </p>
 
