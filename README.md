@@ -9,7 +9,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,jest,pug,sass,bootstrap,tailwind" alt="Front-End Tech" /><br><br>
 
   <!-- Back-End Technologies -->
-  <strong>Back-End:</strong><br>
   <img src="https://skillicons.dev/icons?i=python,cpp,prisma,postgresql" alt="Back-End Tech" /><br><br>
 
   <!-- Dev Tools -->
@@ -17,7 +16,7 @@
 
   <!-- Hosting Platforms -->
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
-  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" style="height: 28px; vertical-align: middle; margin-left: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" style="height: 40px; vertical-align: middle; margin-left: 6px;" />
 </p>
 
 
