@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Omar Diab</span></h1>
-<h3 align="center">🚀 A Passionate Front-End Developer crafting sleek and modern web experiences using the latest technologies!</h3>
+<h1 align="start">Hi there 👋, I'm <span style="color:#00ADB5;">Omar Diab</span></h1>
+<h3 align="start">🚀 A Passionate Front-End Developer crafting sleek and modern web experiences using the latest technologies!</h3>
 
 ---
 
@@ -32,11 +32,11 @@
 ### 📫 Connect With Me:
 <p align="start">
   <a href="https://www.linkedin.com/in/omar-diab-756b0b306/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/omardiab.10" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
 </p>
 
