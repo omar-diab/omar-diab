@@ -5,15 +5,24 @@
 
 ### Tech Stack & Tools 🧰 :
 <p align="start">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python" alt="Languages" /><br>
-  
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,pug,sass,bootstrap,tailwind" alt="Frameworks" /><br>
-  
+  <!-- Front-End Technologies -->
+  <strong>Front-End:</strong><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,jest,pug,sass,bootstrap,tailwind" alt="Front-End Tech" /><br><br>
+
+  <!-- Back-End Technologies -->
+  <strong>Back-End:</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,prisma,postgresql" alt="Back-End Tech" /><br><br>
+
   <!-- Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,gulp,prisma,postgresql,linux" alt="Tools" />
+  <strong>Hosting:</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,gulp,linux" alt="Dev Tools" />
+
+  <!-- Hosting Platforms -->
+  <strong>Hosting:</strong><br>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" style="height: 28px; vertical-align: middle; margin-left: 6px;" />
 </p>
+
 
 ---
 
