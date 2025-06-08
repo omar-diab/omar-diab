@@ -16,8 +16,6 @@
   <br/>
   <!-- Hosting Platforms -->
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
-  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" style="height: 45px; margin: 10px; filter: grayscale(100%) brightness(0) invert(1);" />
-  <br/>
 </p>
 
 
