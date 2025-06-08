@@ -6,17 +6,17 @@
 ### Tech Stack & Tools 🧰 :
 <p align="start">
   <!-- Front-End Technologies -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,jest,pug,sass,bootstrap,tailwind" alt="Front-End Tech" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,jest,pug,sass,bootstrap,tailwind" alt="Front-End Tech" />
 
   <!-- Back-End Technologies -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,prisma,postgresql" alt="Back-End Tech" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,prisma,postgresql" alt="Back-End Tech" />
 
   <!-- Dev Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,postman,gulp,linux" alt="Dev Tools" />
 
   <!-- Hosting Platforms -->
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
-  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" style="height: 40px; vertical-align: middle; margin-left: 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" style="height: 40px; margin-left: 6px;" />
 </p>
 
 
