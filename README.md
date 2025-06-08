@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Omar Diab</span></h1>
-<h3 align="start">A Passionate Front-End Developer crafting sleek and modern web experiences using the latest technologies! 🚀</h3>
+<h3 align="center">A Passionate Front-End Developer crafting sleek and modern web experiences using the latest technologies! 🚀</h3>
 
 ---
 
@@ -26,7 +26,7 @@
 ---
 
 ### Experience 💼 :
-- 🧑‍💻 **Front-End Developer Intern at **e+plus** for 3 months
+- 🧑‍💻 Front-End Developer Intern at **e+plus** for 3 months
 ---
 
 ### Connect With Me 📫 :
