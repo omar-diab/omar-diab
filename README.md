@@ -36,11 +36,11 @@
 ### Connect With Me 📫 :
 <p align="start">
   <a href="https://www.linkedin.com/in/omar-diab-756b0b306/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/omardiab.10" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
   </a>
 </p>
 
