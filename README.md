@@ -4,17 +4,9 @@
 ---
 
 ### 🚀 Tech Stack & Tools:
-
-#### 💻 Front-End
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,jest,pug,sass,bootstrap,tailwind" alt="Front-End" />
-
-#### 🧠 Back-End
 <img src="https://skillicons.dev/icons?i=python,cpp,prisma,postgresql" alt="Back-End" />
-
-#### 🛠 Dev Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,gulp,linux" alt="Dev Tools" />
-
-#### ☁ Hosting
 <p align="start">
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" />
   &nbsp;&nbsp;
