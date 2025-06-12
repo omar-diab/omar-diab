@@ -15,23 +15,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,postman,gulp,linux" alt="Dev Tools" />
 
 #### ☁ Hosting
-<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
-<img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" height="40" />
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-diab&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-diab&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
-### 🔥 GitHub Activity Graph:
-
-[![Omar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=omar-diab&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://skillicons.dev/icons?i=vercel,hostinger" alt="Vercel" />
 
 ---
 
@@ -48,15 +32,7 @@
 
 ---
 
-### 🚧 Currently Working On:
-- 🌐 Building **Anime Vault** – A full-stack anime media app.
-- 🧭 Crafting a **TripAdvisor Clone** using Next.js & Tailwind.
-- 🧪 Enhancing my **portfolio** with real-time projects & stats.
-
----
-
 ### 📫 Connect With Me:
-
 <p align="start">
   <a href="https://www.linkedin.com/in/omar-diab-756b0b306/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
@@ -65,13 +41,4 @@
   <a href="https://www.instagram.com/omardiab.10" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
   </a>
-</p>
-
----
-
-> _“Let's turn ideas into code and code into experiences.”_
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omar-diab&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/omar-diab?label=Follow&style=social" alt="GitHub Followers" />
 </p>
