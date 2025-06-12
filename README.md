@@ -16,9 +16,11 @@
 
 #### ☁ Hosting
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" height="40" />
 </p>
+
 
 
 ---
