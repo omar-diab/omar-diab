@@ -15,7 +15,11 @@
 <img src="https://skillicons.dev/icons?i=git,github,postman,gulp,linux" alt="Dev Tools" />
 
 #### ☁ Hosting
-<img src="https://skillicons.dev/icons?i=vercel,hostinger" alt="Vercel" />
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" height="40" />
+</p>
+
 
 ---
 
