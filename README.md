@@ -8,9 +8,9 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,prisma,postgresql" alt="Back-End" />
 <img src="https://skillicons.dev/icons?i=git,github,postman,gulp,linux" alt="Dev Tools" />
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" height="45" />
 </p>
 
 
