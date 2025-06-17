@@ -25,7 +25,7 @@
 
 ---
 
-### 💼 Experience:
+### 💼 My Experience:
 - 🧑‍💻 Front-End Developer Intern at **e+plus** for 3 months
 
 ---
