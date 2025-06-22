@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I am <span>Omar Diab</span></h1>
-<h3 align="center">A Passionate Front-End Developer crafting sleek and modern web experiences using the latest technologies! 🚀</h3>
+<h3 align="center">A Passionate Front-End Developer crafting sleek and modern experiences using the latest technologies! 🚀</h3>
 
 ---
 
