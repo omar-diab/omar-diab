@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,jest,pug,sass,bootstrap,tailwind" alt="Front-End" />
   <br />
   <!-- GSAP -->
-  <img src="https://greensock.com/uploads/monthly_2020_03/greensock-logo.png.0cd338764b7d21d24e2651c516ba5f52.png" alt="GSAP" height="40" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="GSAP" height="40" />
   &nbsp;&nbsp;
   <!-- Framer Motion (using Framer logo) -->
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/framer.svg" alt="Framer Motion" height="40" />
