@@ -4,16 +4,28 @@
 ---
 
 ### 🚀 Tech Stack & Tools:
+
+<!-- Front-End Technologies -->
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,jest,pug,sass,bootstrap,tailwind" alt="Front-End" />
+<br />
+<!-- Add GSAP and Framer Motion icons manually -->
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="GSAP" height="40" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/framer/logos/main/static/favicons/favicon-32x32.png" alt="Framer Motion" height="40" />
+
+<!-- Back-End Technologies -->
+<br />
 <img src="https://skillicons.dev/icons?i=python,cpp,prisma,postgresql" alt="Back-End" />
+
+<!-- Dev Tools -->
+<br />
 <img src="https://skillicons.dev/icons?i=git,github,postman,gulp,linux" alt="Dev Tools" />
+
+<!-- Hosting -->
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
   &nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" height="45" />
 </p>
-
-
 
 ---
 
