@@ -9,11 +9,11 @@
 <p align="start">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,jest,pug,sass,bootstrap,tailwind" alt="Front-End" />
   <br />
-
-  <!-- GSAP & Framer Motion -->
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="GSAP" height="40" />
+  <!-- GSAP -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" alt="GSAP" height="40" />
   &nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="Framer Motion" height="40" />
+  <!-- Framer Motion (using Framer logo) -->
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/framer.svg" alt="Framer Motion" height="40" />
 </p>
 
 <!-- Back-End Technologies -->
