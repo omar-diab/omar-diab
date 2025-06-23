@@ -46,7 +46,7 @@
 
 ### 📫 Find me on:
 <p align="start">
-  <a href="https://www.linkedin.com/in/omar-diab-756b0b306/" target="_blank">
+  <a href="https://www.linkedin.com/in/omardiab1" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
