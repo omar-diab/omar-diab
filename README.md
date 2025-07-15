@@ -40,7 +40,8 @@
 ---
 
 ### 💼 My Experience:
-- 🧑‍💻 Front-End Developer Intern at **e+plus** for 3 months
+- 🧑‍💻 Front End Developer Internship at **e+plus** for 3 months
+- 🧑‍💻 Web Developer Instructor at Sharvard Academy 
 
 ---
 
