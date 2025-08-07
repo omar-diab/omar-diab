@@ -69,4 +69,4 @@
 
 ---
 
-> 💡 *“Code is not just what we write. It’s what we craft, test, and iterate.”*
+> 💡 *“All we have now is now, not the past and not the future.”*
