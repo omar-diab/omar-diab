@@ -7,9 +7,6 @@
 
 - 🎓 Software Engineering Student
 - 💻 Passionate Front-End Developer
-- 🎨 I build modern, accessible, animated UIs using React, Next.js & Tailwind
-- 🧠 I enjoy solving challenges on LeetCode
-- 🚀 Always learning, always building
 
 ---
 
