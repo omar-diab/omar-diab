@@ -70,4 +70,4 @@
 
 ---
 
-> 💡 *“All we have now is now, not the past and not the future.”*
+> 💡 *“The only time we truly own is the present — not the past, not the future.”*
