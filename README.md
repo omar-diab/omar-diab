@@ -7,6 +7,7 @@
 
 - 🎓 Software Engineering Student
 - 💻 Passionate Front-End Developer
+- 👨‍🏫 Web Development Instructor 
 
 ---
 
