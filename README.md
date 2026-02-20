@@ -6,7 +6,7 @@
 ## 🔥 About Me
 
 - 🎓 Software Engineering Student
-- 💻 Passionate Front-End Developer
+- 💻 Front-End Developer
 - 👨‍🏫 Web Development Instructor 
 
 ---
