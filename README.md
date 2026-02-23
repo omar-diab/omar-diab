@@ -5,7 +5,7 @@
 
 ## 🔥 About Me
 
-- 🎓 Software Engineering Student
+- 🎓 Software Engineer
 - 💻 Front-End Developer
 - 👨‍🏫 Web Development Instructor 
 
