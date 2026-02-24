@@ -7,7 +7,7 @@
 
 - 🎓 Software Engineer
 - 💻 Front-End Developer
-- 👨‍🏫 Web Development Instructor 
+- 👨‍🏫 Web Developer Instructor 
 
 ---
 
