@@ -56,7 +56,6 @@
 
 ## 💼 Experience
 
-> 🧑‍💻 **Front-End Developer Intern** – *e+plus*  
 > 👨‍🏫 **Web Instructor** – *Sharvard Academy*
 
 ---
