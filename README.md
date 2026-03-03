@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Find me on
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omardiab1">
