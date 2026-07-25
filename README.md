@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=omar-diab.omar-diab&right_color=gold"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=omar-diab.omar-diab&right_color=blue"/>
 
 <table>
 <tr>
@@ -55,6 +55,8 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF0a3kwNXU4OTdlcXFmM3k3Y
 <img src="https://skillicons.dev/icons?i=bootstrap" height="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="36"/>
+<img src="https://cdn.simpleicons.org/gsap/88CE02" height="36"/>
+<img src="https://cdn.simpleicons.org/framer/0055FF" height="36"/>
 <img src="https://skillicons.dev/icons?i=vite" height="36"/>
 <img src="https://skillicons.dev/icons?i=threejs" height="36"/>
 </p>
@@ -67,6 +69,8 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF0a3kwNXU4OTdlcXFmM3k3Y
 <img src="https://skillicons.dev/icons?i=express" height="36"/>
 <img src="https://cdn.simpleicons.org/fastapi/009688" height="36"/>
 <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="36"/>
+<img src="https://skillicons.dev/icons?i=redis" height="36"/>
+<img src="https://skillicons.dev/icons?i=celery" height="36"/>
 </p>
 
 ### 🗄️ Databases
