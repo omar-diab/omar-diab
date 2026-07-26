@@ -126,7 +126,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF0a3kwNXU4OTdlcXFmM3k3Y
 |----------|-------|
 | 🇸🇦 Arabic | Native |
 | 🇬🇧 English | Proficient |
-| 🇹🇷 Turkish | Working |
+| 🇹🇷 Turkish | Intermediate |
 | 🇪🇸 Spanish | A1 |
 
 </td>
