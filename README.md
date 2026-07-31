@@ -116,9 +116,6 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF0a3kwNXU4OTdlcXFmM3k3Y
 #### 👨‍🏫 Web Instructor
 **Sharvard Academy**
 
-#### 🧑‍💻 Full-Stack Developer Intern
-**3S-Hub**
-
 </td>
 
 <td width="40%" valign="top">
