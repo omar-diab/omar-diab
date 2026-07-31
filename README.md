@@ -114,6 +114,11 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF0a3kwNXU4OTdlcXFmM3k3Y
 #### 👨‍🏫 Web Instructor
 **Sharvard Academy**
 
+#### 👨‍🏫 Software Engineer
+**Rüzgar UAV Team**
+*TEKNOFEST International UAV Competition — Türkiye*
+
+
 </td>
 
 <td width="40%" valign="top">
