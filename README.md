@@ -6,8 +6,6 @@
 
 <br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=omar-diab.omar-diab&right_color=blue"/>
-
 <table>
 <tr>
 
