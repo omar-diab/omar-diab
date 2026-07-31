@@ -108,13 +108,13 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF0a3kwNXU4OTdlcXFmM3k3Y
 #### 🧑‍💻 Front-End Developer Intern
 **e+plus**
 
-#### 💻 Full-Stack Developer Intern
+#### 🧑‍💻 Full-Stack Developer Intern
 **3s-Hub**
 
 #### 👨‍🏫 Web Instructor
 **Sharvard Academy**
 
-#### 👨‍🏫 Software Engineer
+#### 💻 Software Engineer
 **Rüzgar UAV Team**
 *TEKNOFEST International UAV Competition — Türkiye*
 
